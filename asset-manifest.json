@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FirstReact_with_NomadCoders/static/css/main.906376e5.chunk.css",
+    "main.js": "/FirstReact_with_NomadCoders/static/js/main.75e79047.chunk.js",
+    "main.js.map": "/FirstReact_with_NomadCoders/static/js/main.75e79047.chunk.js.map",
+    "runtime-main.js": "/FirstReact_with_NomadCoders/static/js/runtime-main.be03e2c3.js",
+    "runtime-main.js.map": "/FirstReact_with_NomadCoders/static/js/runtime-main.be03e2c3.js.map",
+    "static/js/2.93747b13.chunk.js": "/FirstReact_with_NomadCoders/static/js/2.93747b13.chunk.js",
+    "static/js/2.93747b13.chunk.js.map": "/FirstReact_with_NomadCoders/static/js/2.93747b13.chunk.js.map",
+    "index.html": "/FirstReact_with_NomadCoders/index.html",
+    "static/css/main.906376e5.chunk.css.map": "/FirstReact_with_NomadCoders/static/css/main.906376e5.chunk.css.map",
+    "static/js/2.93747b13.chunk.js.LICENSE.txt": "/FirstReact_with_NomadCoders/static/js/2.93747b13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be03e2c3.js",
+    "static/js/2.93747b13.chunk.js",
+    "static/css/main.906376e5.chunk.css",
+    "static/js/main.75e79047.chunk.js"
+  ]
+}
